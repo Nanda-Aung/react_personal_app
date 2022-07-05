@@ -1,0 +1,3 @@
+let answer =[{question:this.state.quiz.questions[this.state.currentQuestionIndex].question,
+             answer:this.state.quiz.questions[this.state.currentQuestionIndex].ur_answer
+            }]
